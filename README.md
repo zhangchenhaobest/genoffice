@@ -1,3 +1,29 @@
+# genoffice
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdown and HTML editors with a built-in AI agent, plus a `genoffice` CLI and agent skill so Claude Code, Codex and Cursor can create and edit real .docx/.xlsx/.pptx files locally. Bring your own key. macOS, Windows & Linux.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+免费开源 AI Office 套件，含文档、表格、幻灯片、PDF、Markdown 与 HTML 编辑器及内置 AI Agent。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <p align="center">
   <a href="https://genoffice.ai/">
     <picture>
